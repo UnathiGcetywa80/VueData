@@ -16,12 +16,12 @@
             "description": "She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub."
         },
         {
-            "imageURL": "https://i.imgur.com/OMrMqfI.jpg",
+            "imageURL": "https://i.imgur.com/zBd18d7.jpg",
             "name":"Inganathi Stemela",
             "description": "Unathi is an outstanding individual ,who is always calm and hard working. She is well customed when it comes to working with others and always does her best in her work and for that I admire her."
         },
         {
-            "imageURL": "",
+            "imageURL": "https://i.imgur.com/Wik0gPp.jpgg",
             "name":"Thotyelwa Mpongwana",
             "description": "Unathi She has demonstrated impeccable energy for the assignments of this coding course in the few time that I have known her. Unathi shows initiative in completing tasks quickly and effectively. One of her strongest suit is her ability to articulate things to the team. The ideal colleague for a group setting."
         },
@@ -91,24 +91,24 @@
               "Skills": [
                 {
                   "name": "HTML",
-                  "imgUrl": "https://i.postimg.cc/TP7Pv00q/html-lohgo-1.png"
+                  "imgUrl": "https://i.imgur.com/42X0yia.png"
                 },
                 {
                   "name": "CSS",
-                  "imgUrl": "https://i.postimg.cc/wT7cC4kF/CSS-Logo-1.png"
+                  "imgUrl": "https://i.imgur.com/B4YCCEF.jpg"
 
                 },
                 {
                   "name": "Bootstrap",
-                  "imgUrl": "https://i.postimg.cc/j2r2M5vG/bootstrap-logo-1.png"
+                  "imgUrl": "https://i.imgur.com/fIcKnQW.png"
                 },
                 {
                   "name": "Javascript",
-                  "imgUrl": "https://i.postimg.cc/hPnvRXgj/java-logo.png"
+                  "imgUrl": "https://i.imgur.com/zboSh42.jpg"
                 },
                 {
                   "name": "Vuejs",
-                  "imgUrl": "https://i.postimg.cc/gJd8Jm6q/vuejs-logo.png"
+                  "imgUrl": "https://i.imgur.com/UhHAk6K.png"
                 }
             ]            
 }
