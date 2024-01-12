@@ -88,11 +88,27 @@
                 "description": "Coding",
                 "duration": "2023 - present"
               }],
-    "skills":[
-        "JavaScript",
-        "Vue.js",
-        "HTML",
-        "CSS" 
-    ]   
-    
+              "Skills": [
+                {
+                  "name": "HTML",
+                  "imgUrl": "https://i.postimg.cc/TP7Pv00q/html-lohgo-1.png"
+                },
+                {
+                  "name": "CSS",
+                  "imgUrl": "https://i.postimg.cc/wT7cC4kF/CSS-Logo-1.png"
+
+                },
+                {
+                  "name": "Bootstrap",
+                  "imgUrl": "https://i.postimg.cc/j2r2M5vG/bootstrap-logo-1.png"
+                },
+                {
+                  "name": "Javascript",
+                  "imgUrl": "https://i.postimg.cc/hPnvRXgj/java-logo.png"
+                },
+                {
+                  "name": "Vuejs",
+                  "imgUrl": "https://i.postimg.cc/gJd8Jm6q/vuejs-logo.png"
+                }
+            ]            
 }
