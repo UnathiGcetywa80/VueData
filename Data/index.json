@@ -96,6 +96,20 @@
                 "description": "Commerce",
                 "duration": "2018 - 2022"
               }],
+              "Experience": [
+                {
+                    "place": "Life Choices Academy" ,
+                    "duration": "2024-Present",
+                    "profession": "Web Dev Intern"
+                    
+                  },
+                  {
+                    "place": "Dei Vlei Boodrey" ,
+                    "duration": "2022-2022",
+                    "profession": "Grape harvester"
+                    
+                  }
+                ],
               "Skills": [
                 {
                   "name": "HTML",
