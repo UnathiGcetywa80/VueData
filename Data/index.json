@@ -77,17 +77,18 @@
         }
     ],
     "Education": [
-        {
-                "degree": "Grade 12",
-                "institution": "HF Van Cutsem High School",
-                "description": "Commerce",
-                "duration": "2018 - 2022"
-              },
+       
               {
                 "degree": "Web Development",
                 "institution":"Life Choices Academy",
                 "description": "Coding",
                 "duration": "2023 - present"
+              }, 
+              {
+                "degree": "Grade 12",
+                "institution": "HF Van Cutsem High School",
+                "description": "Commerce",
+                "duration": "2018 - 2022"
               }],
               "Skills": [
                 {
