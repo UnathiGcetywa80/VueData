@@ -77,12 +77,18 @@
         }
     ],
     "Education": [
+        {
+            "degree": "Web Developer",
+            "institution":"Life Choices Academy",
+            "description": "Coding",
+            "duration": "2024 - Present"
+          }, 
        
               {
                 "degree": "Web Development",
                 "institution":"Life Choices Academy",
                 "description": "Coding",
-                "duration": "2023 - present"
+                "duration": "2023 - 2024"
               }, 
               {
                 "degree": "Grade 12",
