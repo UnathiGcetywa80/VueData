@@ -62,28 +62,21 @@
 
         },
         {
-            "name": "E-commerce",
-            "imgURL": "https://i.imgur.com/d87WNcD.png",
-            "github": "https://github.com/UnathiGcetywa80/eCommerce.git",
-            "vercel": "https://e-commerce-rho-vert.vercel.app/"
+            "name": "Capstone",
+            "imgURL": "https://i.postimg.cc/L67DdB2Y/book.jpg",
+            "github": "https://github.com/UnathiGcetywa80/CapstoneEcommerce",
+            "vercel": "https://capstoneecommerce-a2a93.firebaseapp.com/"
 
         },
         {
-            "name": "Capstone",
-            "imgURL": "https://i.imgur.com/7oSbr2v.png",
-            "github": "https://github.com/UnathiGcetywa80/CapstoneEcommerce.git",
-            "firebase": "https://capstoneecommerce-a2a93.firebaseapp.com/"
+            "name": "Chekich Sneaker Store",
+            "imgURL": "https://i.postimg.cc/jStHY8Bj/chekich.jpg",
+            "github": "https://github.com/UnathiGcetywa80/Checkich-Sneaker-Store",
+            "firebase": "https://checkich-sneaker-store.vercel.app/index.html"
 
         }
     ],
     "Education": [
-        {
-            "degree": "Web Developer",
-            "institution":"Life Choices Academy",
-            "description": "Coding",
-            "duration": "2024 - Present"
-          }, 
-       
               {
                 "degree": "Web Development",
                 "institution":"Life Choices Academy",
